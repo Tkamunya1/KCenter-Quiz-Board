@@ -24,5 +24,13 @@ const quizData = [
         d: "Python",
         correct: "b",
     },
+    {
+        question: "Which of the following is not a role of a software developer?",
+        a: "Creating web pages and software applications",
+        b: "Testing existing software and applications",
+        c: "Redesigning existing software",
+        d: "Maintain the company’s computer systems",
+        correct: "d",
+    },
 
 ]
