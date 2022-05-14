@@ -32,5 +32,14 @@ const quizData = [
         d: "Maintain the company’s computer systems",
         correct: "d",
     },
+    {
+    question: "Which of the following is a Javascript framework?",
+        a: "Flask",
+        b: "Node",
+        c: "Django",
+        d: "Laravel",
+        correct: "b",
+    },
+
 
 ]
