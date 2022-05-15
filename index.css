@@ -1,8 +1,14 @@
 *{
     box-sizing: border-box;
   }
-
-body{
+#Home{
+  align-items: center;
+  text-align: center;
+}
+p{
+  color: red;
+}
+main{
   background-color: #113c7c;
   background-image: linear-gradient(315deg, #d9dee6 0%, #f5f7f7 100%);
   font-family: 'Poppins', sans-serif;
@@ -13,6 +19,7 @@ body{
   overflow: hidden;
   margin: 0;
 }
+
 .qzContainer{
     background-color: #fff;
     border-radius: 10px;
