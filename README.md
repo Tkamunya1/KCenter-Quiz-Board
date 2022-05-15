@@ -2,7 +2,7 @@ KCenter Quiz Board
 This is a quiz board that will measure students understanding of Javascript
 
 Installation
-To access the quiz bar, students need an internet connection, a computer/mobile device and the link to the quiz bar
+To access the quiz bar, students need an internet connection, a computer/mobile device and this linkhttps://tkamunya1.github.io/KCenter-Quiz-Board/ to the quiz bar
 
 Description
 This project is an online quiz that analyzes how well the students understand Javascript and the associated languages.
