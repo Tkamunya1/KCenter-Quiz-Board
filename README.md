@@ -1,18 +1,22 @@
-KCenter Quiz Board
-This is a quiz board that will measure students understanding of Javascript
+# KCenter Quiz Board 
 
-Installation
+This is a quiz board that will measure students understanding of Javascript
+## How to Access
+
 To access the quiz bar, students need an internet connection, a computer/mobile device and this linkhttps://tkamunya1.github.io/KCenter-Quiz-Board/ to the quiz bar
 
-Description
+
+## Usage
+
 This project is an online quiz that analyzes how well the students understand Javascript and the associated languages.
 
-Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate.
 
-License
+## License
 MIT License
 
 Copyright (c) [2022] [Titus Kamunya]
